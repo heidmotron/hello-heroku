@@ -1,4 +1,4 @@
 {
-	"ImportPath": "github.com/heroku/go-getting-started",
+	"ImportPath": "github.com/heidmotron/hello-heroku",
 	"GoVersion": "go1.6"
 }
