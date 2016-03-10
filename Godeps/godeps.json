@@ -1,4 +1,5 @@
 {
 	"ImportPath": "github.com/heidmotron/hello-heroku",
-	"GoVersion": "go1.6"
+	"GoVersion": "go1.6",
+	"Deps": []
 }
