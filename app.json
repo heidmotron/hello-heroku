@@ -1,0 +1,4 @@
+{
+	"name": "polar-ravine",
+	"image": "heroku/go:1.6"
+}
